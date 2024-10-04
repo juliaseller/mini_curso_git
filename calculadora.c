@@ -6,6 +6,12 @@ int adicao(int a, int b){
     return soma;
 }
 
+int subtracao(int a, int b){
+    int sub;
+    sub = a - b;
+    return sub;
+}
+
 
 int main(){
 
