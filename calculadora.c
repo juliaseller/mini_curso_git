@@ -19,6 +19,12 @@ double potenciacao(double a, double b){
     return potencia;
 }
 
+double raiz_quadrada(double a){
+    double raiz;
+    raiz = sqrt(a);
+    return raiz;
+}
+
 
 int main(){
 
